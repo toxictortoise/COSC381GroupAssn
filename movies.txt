@@ -1,6 +1,3 @@
-<<<<<<< HEAD
 Ghost in the Shell, The Grand Budapest Hotel, Harikiri
-=======
 The great gatsby, Free guy, A silent voice
->>>>>>> C-branch
 Harry Potter, Snowpiercer, The Thing
